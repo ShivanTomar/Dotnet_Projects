@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "MLlhPDERltBIEGNsWLcV4UFtBhrlh/xDfJt2FsD04yc=",
+  "Source": "CURDExample",
+  "BasePath": "_content/CURDExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CURDExample\\wwwroot",
+      "Source": "CURDExample",
+      "ContentRoot": "C:\\Users\\ShivaniTomar\\source\\repos\\CURDExample\\CURDExample\\wwwroot\\",
+      "BasePath": "_content/CURDExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ShivaniTomar\\source\\repos\\CURDExample\\CURDExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "CURDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ShivaniTomar\\source\\repos\\CURDExample\\CURDExample\\wwwroot\\",
+      "BasePath": "_content/CURDExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

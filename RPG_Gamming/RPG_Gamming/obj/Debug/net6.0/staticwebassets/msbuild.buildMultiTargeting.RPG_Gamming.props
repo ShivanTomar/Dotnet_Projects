@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RPG_Gamming.props" />
+</Project>

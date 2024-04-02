@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nSxo+pOpYwBiWWAXUU8JlyvmAZpxR2bEZS574UXynlk=",
+  "Source": "ConfugrationExamples",
+  "BasePath": "_content/ConfugrationExamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfugrationExamples\\wwwroot",
+      "Source": "ConfugrationExamples",
+      "ContentRoot": "C:\\Users\\ShivaniTomar\\source\\repos\\ConfugrationExamples\\ConfugrationExamples\\wwwroot\\",
+      "BasePath": "_content/ConfugrationExamples",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ShivaniTomar\\source\\repos\\ConfugrationExamples\\ConfugrationExamples\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfugrationExamples",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ShivaniTomar\\source\\repos\\ConfugrationExamples\\ConfugrationExamples\\wwwroot\\",
+      "BasePath": "_content/ConfugrationExamples",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

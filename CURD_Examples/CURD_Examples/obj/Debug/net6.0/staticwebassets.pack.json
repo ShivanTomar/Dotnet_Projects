@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ShivaniTomar\\source\\repos\\CURD_Examples\\CURD_Examples\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CURD_Examples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CURD_Examples.props",
+      "PackagePath": "build\\CURD_Examples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CURD_Examples.props",
+      "PackagePath": "buildMultiTargeting\\CURD_Examples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CURD_Examples.props",
+      "PackagePath": "buildTransitive\\CURD_Examples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

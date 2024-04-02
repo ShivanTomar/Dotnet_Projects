@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VALWrVLkotL56XaP6WJP9/bC9lMPjxNAesHolvbNrUc=",
+  "Source": "DIExample",
+  "BasePath": "_content/DIExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIExample\\wwwroot",
+      "Source": "DIExample",
+      "ContentRoot": "C:\\Users\\ShivaniTomar\\source\\repos\\DIExample\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

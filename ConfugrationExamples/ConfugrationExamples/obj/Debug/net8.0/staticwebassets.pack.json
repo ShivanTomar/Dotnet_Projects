@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ShivaniTomar\\source\\repos\\ConfugrationExamples\\ConfugrationExamples\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ConfugrationExamples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ConfugrationExamples.props",
+      "PackagePath": "build\\ConfugrationExamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ConfugrationExamples.props",
+      "PackagePath": "buildMultiTargeting\\ConfugrationExamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ConfugrationExamples.props",
+      "PackagePath": "buildTransitive\\ConfugrationExamples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
